@@ -16,4 +16,5 @@ end
 def assign_rooms(array)
   badge_array =[]
   counter = 1
-  
+  array.each do |name|
+    badge_array.push
