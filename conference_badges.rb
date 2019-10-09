@@ -31,4 +31,5 @@ def printer(array)
   assign_rooms.each do |id|
     puts id
   end
+end
   
