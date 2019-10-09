@@ -23,4 +23,6 @@ def assign_rooms(array)
   return badge_array
 end
 
-def printer
+def printer(array)
+  badge_array = []
+  
