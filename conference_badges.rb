@@ -15,4 +15,5 @@ end
   
 def assign_rooms(array)
   badge_array =[]
+  counter = 1
   
